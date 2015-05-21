@@ -1,7 +1,7 @@
 # kaggle-facebookIV
 # current ranking: 96th
 
-## Classifier algorithms 
+## Models
 * NN(TODO)
 * XGB
 * Random Forests
