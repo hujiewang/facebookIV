@@ -1,5 +1,5 @@
 # kaggle-facebookIV
-# current ranking: 96th
+# Final ranking: 31st
 
 ## Models
 * NN(TODO)
